@@ -1,3 +1,7 @@
+### WARNING: This software is archived and only kept for historical reasons. The official most recent version of PyPlane is available at https://github.com/TUD-RST/pyplane.
+---
+
+
 About 
 ===== 
 PyPlane is a free software for phase plane analysis of second order
@@ -21,21 +25,13 @@ plot eigenvectors
 Ljapunov-functions)
 
 
-It has been originally developed by Klemens Fritzsche in 2013 and 2014 
+Originally, it has been developed by Klemens Fritzsche in 2013 and 2014 
 at the Institute of Control Theory [1], Technische Universität Dresden. 
-Supervisors: Carsten Knoll, Jan Winkler.
-
-Since 2015 it is maintained and developed by Klemens Fritzsche and 
+Supervisors: Carsten Knoll, Jan Winkler. Since 2015 it has been maintained and developed by Klemens Fritzsche and 
 Jan Winkler at the Institute of Control Theory [1].
 
 It is published under the GNU GENERAL PUBLIC LICENSE Version 3.
 
-The most recent version of PyPlane can always be found at GitHub:
-
-https://github.com/TUD-RST/pyplane
-
-Please don't hesitate to report bugs, comments, or suggestions on
-GitHub!
 
 [1] http://www.et.tu-dresden.de/rst/
 
